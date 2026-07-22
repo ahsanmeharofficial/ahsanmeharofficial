@@ -108,6 +108,5 @@ Currently exploring **Agentic AI** and mentoring devs to turn skills into income
    [![Cursor](https://img.shields.io/badge/Cursor-000.svg?style=for-the-badge&logo=cursor&logoColor=white "Cursor")][repo]
    
 
-
-
+Ahsan Mehar
 [repo]: https://github.com/ahsanmeharofficial
